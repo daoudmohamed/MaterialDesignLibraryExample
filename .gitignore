@@ -8,3 +8,5 @@
 .idea
 gradle
 MaterialDesignLibraryExample.iml
+
+gradlew.bat
